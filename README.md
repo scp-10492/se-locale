@@ -1,2 +1,2 @@
-# se-chs-locale
-Fixes and improvements to existing SE Chinese translations.
+# se-locale
+Fixes and improvements to existing SpaceEngine Chinese translations.
